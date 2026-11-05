@@ -27,13 +27,13 @@ Desarrollador backend con más de 4 años diseñando **APIs REST, microservicios
 
 ## Experiencia
 
-**Desarrollador Backend Semi-Senior** — Home Power Colombia · *Jul 2025 – actualidad*
+**Desarrollador Backend Semi-Senior** — Home Power Colombia · *Jul 2025 – actualidad*<br>
 APIs REST con NestJS y Python sobre AWS (Lambda, API Gateway, EC2, RDS, S3) · CI/CD con GitHub Actions y Terraform · integraciones con Odoo, Zoho, Sunrun y Palmeto.
 
-**Desarrollador Backend** — Mercadeo Virtual · *Jun 2023 – Ene 2025*
+**Desarrollador Backend** — Mercadeo Virtual · *Jun 2023 – Ene 2025*<br>
 5 microservicios desde cero · pipeline ETL de SQL Server a MongoDB con auto-reparación en Docker · automatización de reportes de producción.
 
-**Desarrollador Backend Freelance** — Clientes independientes · *2022 – 2024*
+**Desarrollador Backend Freelance** — Clientes independientes · *2022 – 2024*<br>
 Sistemas de pedidos, inventario y facturación electrónica (Siigo, DIAN) · atención al cliente con IA.
 
 ## Proyectos
